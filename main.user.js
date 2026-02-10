@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         4get-newsit
-// @namespace    https://github.com/kewwwal/
+// @namespace    https://github.com/jpeglol/
 // @version      1.1
 // @description  newsit integration for lolcat's 4get search engine
-// @author       kewwwal
+// @author       jpeglol
 // @match        *://*/*
 // @icon         data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAD1BMVEWrqKNNYGcMDAwSBQAAAAC5zpuWAAAAfUlEQVQ4jc2SSRKAIAwEmcD/36xIFklY9GCVc6SbCVCk9JMQrWnN3mAFQBTyFeFROGEpORNzNbR1LJBN5hEkHI23RROsoBqVSy233TjaJhMkTtCrBY5u7oDrKbsHBpyRaM7jY8JnK3hlKwycpRCgd5bCDD4Shh/ynZB2/Jsc3rUCCRq/qkkAAAAASUVORK5CYII=
-// @homepageURL  https://github.com/kewwwal/4get-newsit
-// @supportURL   https://github.com/kewwwal/4get-newsit/issues
-// @updateURL    https://raw.githubusercontent.com/kewwwal/4get-newsit/main/main.user.js
-// @downloadURL  https://raw.githubusercontent.com/kewwwal/4get-newsit/main/main.user.js
+// @homepageURL  https://github.com/jpeglol/4get-newsit
+// @supportURL   https://github.com/jpeglol/4get-newsit/issues
+// @updateURL    https://raw.githubusercontent.com/jpeglol/4get-newsit/main/main.user.js
+// @downloadURL  https://raw.githubusercontent.com/jpeglol/4get-newsit/main/main.user.js
 // @license      MIT
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
